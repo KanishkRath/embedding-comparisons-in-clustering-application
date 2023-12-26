@@ -33,3 +33,18 @@
 - Ensure you have Jupyter Notebook installed.
 - Open the notebooks to run and explore the functionalities.
 - Customize code segments or parameters for experimenting with different datasets or settings.
+
+### Comparison Summary
+
+#### Model Comparison Table
+
+| Method                            | Davies Bouldin Index | Calinski Harabasz Index |
+|-----------------------------------|----------------------|-------------------------|
+| TF-IDF                            | 8.5827               | 14.52                   |
+| Word2Vec                          | 1.5521               | 484.77                  |
+| GLoVe                             | 1.7722               | 369.76                  |
+| BERT                              | 3.0890               | 125.49                  |
+| Autoencoder                       | 0.8967               | 1250.82                 |
+| Autoencoder with One Hot Encoding | 0.8288               | 3298.19                 |
+
+
