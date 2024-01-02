@@ -11,7 +11,7 @@
 - [`Comparison_Existing_Models.ipynb`](Comparison_Existing_Models.ipynb): Compares existing models such as TF-IDF, GLoVe, Word2Vec, and BERT for news article clustering.
 
 ### Autoencoder for News Clustering
-- [`Autoencoder_News_Clustering.ipynb`](Autoencoder_Clustering.ipynb): Demonstrates an autoencoder-based approach for news article clustering, showcasing its superiority over traditional methods.
+- [`Autoencoder_Clustering.ipynb`](Autoencoder_Clustering.ipynb): Demonstrates an autoencoder-based approach for news article clustering, showcasing its superiority over traditional methods.
 
 ## Getting Started
 
